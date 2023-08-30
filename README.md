@@ -7,6 +7,18 @@
 <p align="left">Hola me llamo Angel, Soy un apasionado desarrollador web que está en constante búsqueda de la excelencia en el mundo digital, Actualmente estoy cursando la carrera de Desarrollador Full Stack en CoderHouse, donde estoy adquiriendo habilidades y conocimientos para crear soluciones web completas y efectivas, Manejo HTML5, CSS3, GIT, GITHUB, SASS Y BOOTSTRAP. Siempre estoy dispuesto a aprender y mejorar, por lo que si tienes sugerencias, ideas o simplemente deseas conectarte, ¡no dudes en ponerte en contacto conmigo!<br>!GRACIAS POR VISITAR MI REPOSITORIO!</p>
 
 ###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+</div>
+###
 
 <img align="right" height="150" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
 
