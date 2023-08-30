@@ -5,10 +5,6 @@
 ------------
 
 <img align="right" height="150" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
-
-
-------------
-
 <p align="left">Hola me llamo Angel, Soy un apasionado desarrollador web que está en constante búsqueda de la excelencia en el mundo digital, Actualmente estoy cursando la carrera de Desarrollador Full Stack en CoderHouse, donde estoy adquiriendo habilidades y conocimientos para crear soluciones web completas y efectivas, Manejo HTML5, CSS3, GIT, GITHUB, SASS Y BOOTSTRAP. Siempre estoy dispuesto a aprender y mejorar, por lo que si tienes sugerencias, ideas o simplemente deseas conectarte, ¡no dudes en ponerte en contacto conmigo!<br>!GRACIAS POR VISITAR MI REPOSITORIO!</p>
 
 
